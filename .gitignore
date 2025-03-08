@@ -1,0 +1,4 @@
+# jvm compiled bytecode
+*.class
+# pvm compiled bytecode
+*.pyc
